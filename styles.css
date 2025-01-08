@@ -4,6 +4,8 @@ table,  tr, td{
 	width:100%;
 	height:15px;
 	table-layout:fixed;
+	border-spacing:1px;
+	padding;
 }
 
 #t12{
